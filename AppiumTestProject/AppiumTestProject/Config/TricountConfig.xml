@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appConsts name ="consts">
+    <welcomeWindow name ="welcomeWindow">
+      <welcomeHeader>Welcome to Tricount</welcomeHeader>
+      <expensesHeader>Add expenses</expensesHeader>
+      <balanceHeader>Balance</balanceHeader>
+      <privacyHeader>Your privacy matters</privacyHeader>
+      <cookiesHeader>About cookies</cookiesHeader>
+    </welcomeWindow>
+  </appConsts>
+</configuration>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings name ="settings">
+    <platformName>Android</platformName>
+    <appWaitActivity>com.tribab.tricount.android.view.activity.WalkthroughActivity</appWaitActivity>
+    <appPackage>com.tribab.tricount.android</appPackage>
+    <app>/../../../AppAPK/Tricount.apk</app>
+  </appSettings>
+</configuration>

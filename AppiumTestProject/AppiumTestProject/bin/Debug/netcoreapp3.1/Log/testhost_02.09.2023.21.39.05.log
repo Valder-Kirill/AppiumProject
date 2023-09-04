@@ -1,0 +1,5 @@
+
+///////////////////////////////////
+[02.09.2023 21:39:05.838] [Step1] [Установить и открыть приложение]
+///////////////////////////////////
+[02.09.2023 21:39:10.093] [OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest()] A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:4724/wd/hub/session. The status of the exception was UnknownError, and the message was: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.

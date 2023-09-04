@@ -1,0 +1,5 @@
+
+///////////////////////////////////
+[02.09.2023 21:36:34.399] [Step1] [Установить и открыть приложение]
+///////////////////////////////////
+[02.09.2023 21:36:38.906] [OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError()] An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
