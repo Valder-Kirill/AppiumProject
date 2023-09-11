@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emely\\OneDrive\\Рабочий стол\\AppiumTestProject\\AppiumTestProject\\AppiumTestProject.csproj": {}
+    "C:\\Users\\emely\\OneDrive\\Рабочий стол\\Новая папка (2)\\AppiumTestProject\\AppiumTestProject\\AppiumTestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emely\\OneDrive\\Рабочий стол\\AppiumTestProject\\AppiumTestProject\\AppiumTestProject.csproj": {
+    "C:\\Users\\emely\\OneDrive\\Рабочий стол\\Новая папка (2)\\AppiumTestProject\\AppiumTestProject\\AppiumTestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emely\\OneDrive\\Рабочий стол\\AppiumTestProject\\AppiumTestProject\\AppiumTestProject.csproj",
+        "projectUniqueName": "C:\\Users\\emely\\OneDrive\\Рабочий стол\\Новая папка (2)\\AppiumTestProject\\AppiumTestProject\\AppiumTestProject.csproj",
         "projectName": "AppiumTestProject",
-        "projectPath": "C:\\Users\\emely\\OneDrive\\Рабочий стол\\AppiumTestProject\\AppiumTestProject\\AppiumTestProject.csproj",
+        "projectPath": "C:\\Users\\emely\\OneDrive\\Рабочий стол\\Новая папка (2)\\AppiumTestProject\\AppiumTestProject\\AppiumTestProject.csproj",
         "packagesPath": "C:\\Users\\emely\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emely\\OneDrive\\Рабочий стол\\AppiumTestProject\\AppiumTestProject\\obj\\",
+        "outputPath": "C:\\Users\\emely\\OneDrive\\Рабочий стол\\Новая папка (2)\\AppiumTestProject\\AppiumTestProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

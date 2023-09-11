@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CEUS6TY+eNw7rjvVSxP/wsDR8OcI47Py8ceaUACfns+rSElggpJ6eP9fJVCbeA0B8DS6+rwlLQrGm25YiiM/tQ==",
+  "dgSpecHash": "DgcMrtJs8A7xTLeBD/NDfYlHVpsITfOOSfwz6zP+hdWIZFxaxhBt6LHKSOKA+pN/RchwUOg4ch+SJDQNzDzgOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emely\\OneDrive\\Рабочий стол\\AppiumTestProject\\AppiumTestProject\\AppiumTestProject.csproj",
+  "projectFilePath": "C:\\Users\\emely\\OneDrive\\Рабочий стол\\Новая папка (2)\\AppiumTestProject\\AppiumTestProject\\AppiumTestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emely\\.nuget\\packages\\appium.webdriver\\4.4.5\\appium.webdriver.4.4.5.nupkg.sha512",
     "C:\\Users\\emely\\.nuget\\packages\\castle.core\\4.3.1\\castle.core.4.3.1.nupkg.sha512",
